@@ -1,0 +1,12 @@
+.document ul ,
+.document ol ,
+.document dl {
+    list-style: initial;
+	margin-bottom: 24px; /* same as <p> */
+    padding: 0 0 0 20px;
+}
+
+.document li {
+    display: list-item;
+    list-style: initial;
+}
